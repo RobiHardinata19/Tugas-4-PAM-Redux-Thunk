@@ -1,6 +1,6 @@
 # Penjelasan Redux Thunk
 
-Contoh sederhana yang menerapkan managemen data dengan menggunakan Redux Thunk didalam contoh aplikasi [Tugas 3](https://github.com/RozKoy/Mobile-App)
+Contoh sederhana yang menerapkan managemen data dengan menggunakan Redux Thunk didalam contoh aplikasi Tugas 3
 
 ## Batasan Pengembangan
 - Data yang diambil berupa data acak tanpa API. *Note : Simulasi seperti penggunaan API*
