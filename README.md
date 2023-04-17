@@ -1,4 +1,4 @@
-# Redux Thunk Example
+# Penjelasan Redux Thunk
 
 Contoh sederhana yang menerapkan managemen data dengan menggunakan Redux Thunk didalam contoh aplikasi [Tugas 3](https://github.com/RozKoy/Mobile-App)
 
@@ -9,10 +9,6 @@ Contoh sederhana yang menerapkan managemen data dengan menggunakan Redux Thunk d
 - Terdapat pengujian kode Asynchhronous
 
 ## Cara Menjalankan
-
-> **Lokal**
-
-**Dependensi Utama** : `Node.js`, `React-Native`, `Expo-CLI`, `Redux`, `Redux-Thunk`
 
 **Langkah - langkah** :
 - Langkah pertama dalam menjalankan aplikasi ini adalah melakukan instalasi seluruh dependensi yang dibutuhkan
